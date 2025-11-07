@@ -32,3 +32,7 @@ GPT
 
 ## Prototype
 https://www.figma.com/design/wcVRlixRA6rtYfp7c3KDuD/FunQuiz?node-id=1-2&t=6PHLDUctXAfjfpo2-0
+
+## Sreenshot
+![alt text](<Screenshot 2025-11-07 084004.png>)
+
